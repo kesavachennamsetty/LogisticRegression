@@ -23,8 +23,8 @@ ODDS of cancer in no gene mutation = 10/4 = 2.5
 ODDS ratio= 3/2.5  = 1.2
 
 So, Here a person with a Gene mutation the chances of getting cancer are 1.2 times more
-OR = 1 There is no association between genes and cancer
-OR > 1 There is a positive association between genes and cancer
+OR = 1 There is no association between genes and cancer  
+OR > 1 There is a positive association between genes and cancer  
 OR < 1 There is a negative association between genes and cancer
 
 
