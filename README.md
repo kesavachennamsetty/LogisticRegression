@@ -71,7 +71,7 @@ Logistic Regression is a classification algorithm that combines two key ideas:
 
 ---
 
-### ✅ Final Logistic Regression Formula:
+### ✅ Final Logistic Regression Formula: 
 
 p = 1/(1+e^-z)
 
